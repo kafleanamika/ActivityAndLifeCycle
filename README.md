@@ -1,3 +1,3 @@
 # ActivityAndLifeCycle
 ![](activitylifecyclecodingchallenge.gif)
-![](shopping.png)
+![](shoppinglist.png)
