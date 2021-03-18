@@ -1,0 +1,6 @@
+me/mahakagg/shoppinglist/MainActivity.java
+ me.mahakagg.shoppinglist.MainActivity
+me/mahakagg/shoppinglist/SecondActivity.java
+ me.mahakagg.shoppinglist.SecondActivity
+me/mahakagg/shoppinglist/BuildConfig.java
+ me.mahakagg.shoppinglist.BuildConfig
